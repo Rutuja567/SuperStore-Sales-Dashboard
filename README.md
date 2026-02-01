@@ -28,3 +28,22 @@ The dashboard helps in understanding business performance through **interactive 
 
 **Dashboard**
 <img width="1191" height="672" alt="image" src="https://github.com/user-attachments/assets/b89f3344-41ec-4a43-b0b0-896b7d444e6c" />
+
+## Project Insights
+
+- Sales show an increasing trend toward the end of the year, with the highest sales during November and December.
+- The Consumer segment contributes the largest share of total sales.
+- Office Supplies generate the highest sales among all product categories.
+- Technology products provide better profit potential compared to other categories.
+- Furniture shows lower profitability despite having reasonable sales.
+- Phones are the top-performing sub-category in terms of sales.
+- Standard Class is the most preferred shipping mode.
+- Cash on Delivery (COD) is the most commonly used payment method.
+- Profit does not always increase with sales, indicating the impact of discounts and costs.
+
+---
+
+## Final Conclusion
+
+This Power BI dashboard provides a clear overview of SuperStore sales performance by highlighting key trends, top-performing categories, and customer behavior. The analysis helps identify profitable areas as well as segments that need improvement. Overall, the dashboard supports data-driven decision-making by presenting insights in a simple and interactive format.
+
