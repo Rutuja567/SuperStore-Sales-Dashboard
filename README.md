@@ -26,5 +26,5 @@ The dashboard helps in understanding business performance through **interactive 
     
     Dashboard interaction <a href= "https://github.com/Rutuja567/SuperSales-Dashboard/blob/main/sales%20ss.png"> View Dashboard</a>
 
-Dashboard
+**Dashboard**
 <img width="1191" height="672" alt="image" src="https://github.com/user-attachments/assets/b89f3344-41ec-4a43-b0b0-896b7d444e6c" />
