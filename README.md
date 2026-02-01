@@ -23,3 +23,5 @@ The dashboard helps in understanding business performance through **interactive 
 8. Which shipping mode is most preferred by customers?
 9. How do different payment modes contribute to total sales?
 10. How efficient is the order delivery process based on average delivery time?
+
+ Dashboard interaction <a href= "https://github.com/Rutuja567/SuperSales-Dashboard/blob/main/sales%20ss.png"> View Dashboard</a>
